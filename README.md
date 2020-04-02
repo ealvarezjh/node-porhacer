@@ -6,6 +6,27 @@ y eliminar actividades.
 Es necesario ejecutar:
 
 `````
-npm install
-
+  npm install
 `````
+
+Ejemplos:
+
+- Crear
+```
+  node app -d Dormir -c false
+```
+
+- Listar
+```
+  node app listar
+```
+
+- Actualizar 
+```
+  node app -d Dormir -c true
+```
+
+- Eliminar 
+```
+  node app -d Dormir
+```
