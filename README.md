@@ -23,10 +23,10 @@ Ejemplos:
 
 - Actualizar 
 ```
-  node app -d Dormir -c true
+  node app actualizar -d Dormir -c true
 ```
 
 - Eliminar 
 ```
-  node app -d Dormir
+  node app eliminar -d Dormir
 ```
